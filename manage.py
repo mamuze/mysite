@@ -17,6 +17,6 @@ def main():
         ) from exc
     execute_from_command_line(sys.argv)
 
-
+# 지은이의 관리 대상입니다.
 if __name__ == '__main__':
     main()
